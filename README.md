@@ -1,2 +1,1 @@
-# Verifone_Sim_Api
-Verification of Sim Card
+# Verification of sim Card
